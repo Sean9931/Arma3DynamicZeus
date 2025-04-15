@@ -1,0 +1,22 @@
+// Loading screen display options
+onLoadName = "Dynamic Zeus - Bozcaada";
+author = "Zerinoknight";
+onLoadMission = "We're all gonna die here";
+LoadScreen = "pics\suomi.paa";
+
+// Setting whether you want briefing on start of scenario
+// 0: No map briefing just before a mission
+// 1: Has map briefing just before a mission
+briefing = 0;
+
+// Setting whether you want debug console 
+// (This is that one console menu in pause menu)
+// 0: No console for all
+// 1: Console for host/admin
+// 2: Console for all
+enableDebugConsole = 2;
+
+// Settings to not have zeus stuck on respawn menu at start
+respawnOnStart = 0;
+respawnTemplatesWest[] = {"MenuPosition"};
+respawnTemplatesVirtual[] = {};
