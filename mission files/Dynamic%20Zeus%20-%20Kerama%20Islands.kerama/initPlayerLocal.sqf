@@ -1,4 +1,4 @@
-// Do after Loading into game fully (Saving Respawn Loadout)
+// Do after Loading into game fully
 onPreloadFinished 
 {
 
